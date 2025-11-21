@@ -2,7 +2,7 @@
 
 
 
-module github.com/starknet-io/starknet-p2pspecs
+module github.com/s5364733/extended-sign-sdk
 
 go 1.25
 
